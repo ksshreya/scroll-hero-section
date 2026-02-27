@@ -109,7 +109,7 @@ const Hero = () => {
                 will-change-transform pointer-events-none select-none">
                 <img
                     ref={imageRef}
-                    src="car.png"
+                    src="/scroll-hero-section/car.png"
                     alt="car"
                     className="w-full h-auto object-contain select-none"
                 />
